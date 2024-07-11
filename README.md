@@ -1,5 +1,6 @@
 # inverse-and-forward-kinematic
 
+<img width="302" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٥ في ٩ ٣٠ ٣٢ م" src="https://github.com/ijana7/inverse-and-forward-kinematic-/assets/173642526/9f648fe4-128d-46a6-bc75-8b0d8eb1711f">
 
 Forward Kinematics:
 In a 3-DOF robot, the robot has three joints that can move. These joints are called θ1, θ2, and θ3. When these joints move, the position of the robot's "end-effector" (the part that interacts with the environment) also changes.
